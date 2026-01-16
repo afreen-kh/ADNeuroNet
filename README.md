@@ -66,7 +66,9 @@ If you use this code or framework in your research, please cite:
   publisher={Springer},
   doi={10.1007/s00521-025-11021-y}
 }
-```bibtex
+
+
+Please cite both the paper and this repository when using ADNeuroNet in academic work.
 
 ## License
 
@@ -76,6 +78,7 @@ You are free to use, modify, and distribute this code for research and commercia
 purposes, provided that proper attribution is given.
 
 See the [LICENSE](LICENSE) file for details.
+
 
 
 

@@ -53,6 +53,8 @@ Across three ADNI datasets, ADNeuroNet achieved:
 
 For full experimental details, refer to Tables 5–7 in the paper.
 
+For full experimental details, refer to Tables 5–7 in the paper.
+
 ## Citation
 
 If you use this code or framework in your research, please cite:
@@ -67,19 +69,16 @@ If you use this code or framework in your research, please cite:
   doi={10.1007/s00521-025-11021-y}
 }
 
----
+
 
 Please cite both the paper and this repository when using ADNeuroNet in academic work.
 
-## License
+License
 
-This project is released under the **Apache License 2.0**.
+This project is released under the Apache License 2.0.
 
 You are free to use, modify, and distribute this code for research and commercial
 purposes, provided that proper attribution is given.
 
-See the [LICENSE](LICENSE) file for details.
-
-
-
-
+See the LICENSE
+ file for details.

@@ -1,4 +1,4 @@
-# ADNeuroNet: Neuroevolution-Based Neural Network for Neurodegenerative Disease Diagnosis
+# ADNeuroNet: A Neuroevolution-Based Neural Network Algorithm for the Diagnosis of Neurodegenerative Diseases
 
 This repository provides a research-oriented implementation of **ADNeuroNet**, 
 a neuroevolution-based deep learning framework for the diagnosis of 

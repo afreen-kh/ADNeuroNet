@@ -70,10 +70,6 @@ For full experimental details, refer to Tables 5–7 in the paper.
 }
 </pre>
 
-<p>
-Please cite both the paper and this repository when using ADNeuroNet in academic work.
-</p>
-
 <hr>
 
 <h2>License</h2>

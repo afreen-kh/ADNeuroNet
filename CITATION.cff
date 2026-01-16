@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the following paper."
+title: "ADNeuroNet: A Neuroevolution-Based Neural Network Algorithm for the Diagnosis of Neurodegenerative Diseases"
+authors:
+  - family-names: Khan
+    given-names: Afreen
+  - family-names: Zubair
+    given-names: Swaleha
+  - family-names: Ali
+    given-names: Irfan
+journal: "Neural Computing and Applications"
+year: 2025
+publisher: Springer
+doi: 10.1007/s00521-025-11021-y
+url: https://link.springer.com/article/10.1007/s00521-025-11021-y

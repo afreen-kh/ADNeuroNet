@@ -90,7 +90,3 @@ purposes, provided that proper attribution is given.
 <p>
 See the <a href="LICENSE">LICENSE</a> file for details.
 </p>
-
-Please cite both the paper and this repository when using ADNeuroNet in academic work.
-
-111111

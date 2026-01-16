@@ -1,4 +1,4 @@
-<img width="1375" height="765" alt="image" src="https://github.com/user-attachments/assets/3a74c84f-acf5-4f72-9a19-4a9aa9f561b1" /><img width="1375" height="765" alt="image" src="https://github.com/user-attachments/assets/dd2e0a11-af1f-404a-b77b-f4f1209ddfd3" /># ADNeuroNet: A Neuroevolution-Based Neural Network Algorithm for the Diagnosis of Neurodegenerative Diseases
+# ADNeuroNet: A Neuroevolution-Based Neural Network Algorithm for the Diagnosis of Neurodegenerative Diseases
 
 This repository provides a research-oriented implementation of **ADNeuroNet**, 
 a neuroevolution-based deep learning framework for the diagnosis of 

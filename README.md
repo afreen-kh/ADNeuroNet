@@ -19,6 +19,21 @@ Key characteristics:
 - Evaluation across three ADNI cohorts (ADNI-1, ADNI-2, ADNI-3)
 - Focus on generalization and clinical applicability
 
+## Code Organization and Dataset Scope
+
+The implementation in this repository is designed to be **dataset-agnostic**.
+
+All modules under this directory (e.g., neuroevolution, activation functions,
+optimizers, loss functions, and network construction) are **generic callable
+functions** that are shared across all ADNI cohorts (ADNI-1, ADNI-2, ADNI-3).
+
+The file `data_clean_bl_final.py` contains **ADNI-1–specific preprocessing logic**
+used to prepare baseline clinical data for the experiments reported in the paper.
+
+The same pipeline was applied to ADNI-2 and ADNI-3 datasets in the study; however,
+those datasets and preprocessing scripts are not included here due to data access
+restrictions.
+
 ## Methodology
 
 <p align="center">

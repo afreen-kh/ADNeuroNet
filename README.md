@@ -55,6 +55,8 @@ For full experimental details, refer to Tables 5–7 in the paper.
 
 For full experimental details, refer to Tables 5–7 in the paper.
 
+</code></pre>
+
 ## Citation
 
 If you use this code or framework in your research, please cite:
@@ -68,5 +70,6 @@ If you use this code or framework in your research, please cite:
   publisher={Springer},
   doi={10.1007/s00521-025-11021-y}
 }
+
 
 Please cite both the paper and this repository when using ADNeuroNet in academic work.

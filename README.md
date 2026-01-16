@@ -55,13 +55,11 @@ For full experimental details, refer to Tables 5–7 in the paper.
 
 For full experimental details, refer to Tables 5–7 in the paper.
 
-</code></pre>
+<h2>Citation</h2>
 
-## Citation
+<p>If you use this code or framework in your research, please cite:</p>
 
-If you use this code or framework in your research, please cite:
-
-```bibtex
+<pre>
 @article{khan2025adneuronet,
   title={ADNeuroNet: A neuroevolution-based neural network algorithm for the diagnosis of neurodegenerative diseases},
   author={Khan, Afreen and Zubair, Swaleha and Ali, Irfan},
@@ -70,7 +68,28 @@ If you use this code or framework in your research, please cite:
   publisher={Springer},
   doi={10.1007/s00521-025-11021-y}
 }
+</pre>
 
+<p>
+Please cite both the paper and this repository when using ADNeuroNet in academic work.
+</p>
+
+<hr>
+
+<h2>License</h2>
+
+<p>
+This project is released under the <strong>Apache License 2.0</strong>.
+</p>
+
+<p>
+You are free to use, modify, and distribute this code for research and commercial
+purposes, provided that proper attribution is given.
+</p>
+
+<p>
+See the <a href="LICENSE">LICENSE</a> file for details.
+</p>
 
 Please cite both the paper and this repository when using ADNeuroNet in academic work.
 

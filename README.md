@@ -21,6 +21,15 @@ Key characteristics:
 
 ## Methodology
 
+<p align="center">
+  <img src="figures/adneuronet_pipeline.png" alt="ADNeuroNet Pipeline" width="700">
+</p>
+
+<p align="center">
+  <em>Figure 1: ADNeuroNet framework illustrating the neuroevolution-based
+  optimization pipeline for neurodegenerative disease diagnosis.</em>
+</p>
+
 The ADNeuroNet pipeline follows six stages:
 
 1. Data preprocessing (clean, integrate, transform, reduce)

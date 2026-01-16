@@ -54,13 +54,6 @@ Across three ADNI datasets, ADNeuroNet achieved:
 For full experimental details, refer to Tables 5–7 in the paper.
 
 
-@article{khan2025adneuronet,
-  title={ADNeuroNet: A neuroevolution-based neural network algorithm for the diagnosis of neurodegenerative diseases},
-  author={Khan, Afreen and Zubair, Swaleha and Ali, Irfan},
-  journal={Neural Computing and Applications},
-  year={2025},
-  publisher={Springer}
-}
 
 
 

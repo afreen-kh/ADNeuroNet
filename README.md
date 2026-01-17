@@ -43,8 +43,8 @@ restrictions.
 <p align="center">
   <em>Figure 1: ADNeuroNet framework illustrating the neuroevolution-based
   optimization pipeline for neurodegenerative disease diagnosis.</em><br>
-  <em>(Source: Khan et al., <i>Neural Computing and Applications</i>, 2025)</em>
-</p>
+  <em>(Source: Khan et al., <i>Neural Computing and Applications</i>, 2025)</em> 
+</p> 
 
 The ADNeuroNet pipeline follows six stages:
 

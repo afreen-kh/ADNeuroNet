@@ -4,7 +4,7 @@ This repository provides a research-oriented implementation of **ADNeuroNet**,
 a neuroevolution-based deep learning framework for the diagnosis of 
 neurodegenerative diseases (CN / MCI / AD), as published in:
 
-**Afreen Khan, Swaleha Zubair, Irfan Ali**  
+**Afreen Khan**, Swaleha Zubair, Irfan Ali  
 *Neural Computing and Applications*, 2025  
 📄 [Paper PDF](https://link.springer.com/content/pdf/10.1007/s00521-025-11021-y.pdf)
 
@@ -65,8 +65,6 @@ Across three ADNI datasets, ADNeuroNet achieved:
 - Maximum test accuracy: **93.42%**
 - Stable performance across k=5 and k=10 cross-validation
 - Robust generalization across cohorts
-
-For full experimental details, refer to Tables 5–7 in the paper.
 
 For full experimental details, refer to Tables 5–7 in the paper.
 
